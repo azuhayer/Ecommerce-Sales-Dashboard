@@ -1,6 +1,6 @@
 # E-commerce Sales Dashboard
 
-### This project analyzes and visualizes online retail sales data to provide business insights through interactive dashboards. It is built using Python for data processing and exploration, while also using visual dashboards like Tableau.
+### This project analyzes and visualizes online retail sales data to provide business insights through interactive dashboards. It is built using Python for data processing and exploration and Tableau for dashbaords.
 ---
 
 ## Dataset
