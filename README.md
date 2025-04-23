@@ -13,7 +13,6 @@ This dataset contains transactional data for a UK-based online retailer from **D
 
 ## Data Cleaning Steps
 
-- Removed rows with missing `CustomerID`
 - Removed transactions with negative quantities (i.e., returns)
 - Created `TotalPrice = Quantity × UnitPrice`
 - Extracted `Year`, `Month`, `Weekday`, and `Hour` from `InvoiceDate`
@@ -28,7 +27,6 @@ Key business questions answered:
 - Which products generate the most revenue?
 - What are the top countries by total sales?
 - What time of day do customers tend to order the most?
-- Who are the most valuable customers?
 
 ---
 
